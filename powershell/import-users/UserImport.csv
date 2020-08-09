@@ -1,0 +1,4 @@
+Fname,Lname,Username,Email,Phone,Dept,Password,Title,OU
+Moe,Stooge,Mstooge,mstooge@sometestorg.com,555-555-1234,Sales,Changem3!,Sr. Salesman,"OU=Sales,DC=sometestorg,DC=COM"
+Larry,Stooge,Lstooge,lstooge@sometestorg.com,555-555-1235,Sales,Changem3!,Salesman,"OU=Sales,DC=sometestorg,DC=COM"
+Curly,Stooge,Cstooge,cstooge@sometestorg.com,555-555-1236,Sales,Changem3!,Salesman,"OU=Sales,DC=sometestorg,DC=COM"
